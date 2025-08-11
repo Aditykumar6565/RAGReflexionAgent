@@ -25,3 +25,7 @@ The chatbot loads a PDF, chunks the text, stores it in a vector database, and an
 ```bash
 git clone https://github.com/Aditykumar6565/RAGReflexionAgent.git
 cd RAGReflexionAgent
+##Install all these libraray
+```bash
+pip install streamlit langchain_groq langchain_community pypdf sentence-transformers
+
