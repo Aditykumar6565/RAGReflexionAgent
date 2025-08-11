@@ -23,5 +23,5 @@ The chatbot loads a PDF, chunks the text, stores it in a vector database, and an
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/rag-chatbot.git
-cd rag-chatbot
+git clone https://github.com/Aditykumar6565/RAGReflexionAgent.git
+cd RAGReflexionAgent
